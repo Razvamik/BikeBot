@@ -1,1 +1,1 @@
-worker: python dpo_bot.py
+worker: python project.py
